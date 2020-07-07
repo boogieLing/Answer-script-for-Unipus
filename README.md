@@ -40,3 +40,5 @@ For [https://sso.unipus.cn/](https://sso.unipus.cn/)
 
 If you can actively communicate with me after you find the problem, I will be grateful.
 
+Development environment: Ubuntu 18.04.4 LTS
+Development language: Python 3.6.9
