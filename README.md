@@ -19,9 +19,9 @@ For [https://sso.unipus.cn/](https://sso.unipus.cn/)
  
  2. Fill the **URL** of the topic you want to find into the software.
  
- 3. If you only need to check the answer, please click **=="JUST ANSWER"==**
+ 3. If you only need to check the answer, please click **"JUST ANSWER"**
  
- 4. If you need to fill in the answer automatically (you cannot fill in the multiple choice question automatically), please click  **=="I AM LAZY"==**
+ 4. If you need to fill in the answer automatically (you cannot fill in the multiple choice question automatically), please click  **"I AM LAZY"**
 
 ## Remarks
 
